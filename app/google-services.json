@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6836284538",
+    "firebase_url": "https://fir-testernoti.firebaseio.com",
+    "project_id": "fir-testernoti",
+    "storage_bucket": "fir-testernoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6836284538:android:76777d3f1b422e13",
+        "android_client_info": {
+          "package_name": "com.icyfruits.devc2.firebasetesternoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6836284538-ra0i06rf2cj8jasvll3ms5ibsevo3d4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icyfruits.devc2.firebasetesternoti",
+            "certificate_hash": "CDEBF67F98BFDA1817221C3E18C1951FC065FB74"
+          }
+        },
+        {
+          "client_id": "6836284538-8vq274vk29gfh1a5mtvaocp540ooagg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToRKIGt6PN3fbq74ZsUkyUbAjhZRefMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6836284538-8vq274vk29gfh1a5mtvaocp540ooagg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
